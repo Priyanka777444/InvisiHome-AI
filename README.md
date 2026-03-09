@@ -23,5 +23,5 @@ Check out the dashboard here: [InvisiHome](https://inspiring-licorice-344bd2.net
 
 ---
 
-## 📂 Project Structure
+
 
