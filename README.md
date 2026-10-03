@@ -7,7 +7,7 @@ Built with **React**, **TypeScript**, and **Tailwind CSS**, and deployed on **Ne
 
 ## 🌐 Live Demo
 
-Check out the dashboard here: [InvisiHome](https://inspiring-licorice-344bd2.netlify.app)
+Check out the dashboard here: [InvisiHome](https://invisihomes.netlify.app/)
 
 ---
 
